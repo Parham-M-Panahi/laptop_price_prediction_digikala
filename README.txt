@@ -1,3 +1,7 @@
+This was my final project for advanced python programming at https://maktabkhooneh.org/
+
+
+
 TLDR  if u just want to see the prediction run 'database.py' and then 'ml.py' otherwise, read on.	:)
 
 
